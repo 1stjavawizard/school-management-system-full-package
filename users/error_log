@@ -1,0 +1,290 @@
+[17-Apr-2020 11:26:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/thiscode/public_html/confab/users/selectuser.php on line 31
+[17-Apr-2020 19:18:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/thiscode/public_html/confab/users/selectuser.php on line 31
+[17-Apr-2020 19:19:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/thiscode/public_html/confab/users/selectuser.php on line 31
+[17-Apr-2020 19:22:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/thiscode/public_html/confab/users/selectuser.php on line 31
+[17-Apr-2020 20:47:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home2/thiscode/public_html/confab/users/updateuser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users/updateuser.php on line 26
+[17-Apr-2020 20:47:31 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home2/thiscode/public_html/confab/users/updateuser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users/updateuser.php on line 26
+[17-Apr-2020 20:40:16 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 20:40:36 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 20:42:07 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 20:43:56 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 20:45:15 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 20:49:06 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:19:24 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:21:09 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:22:10 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:22:17 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:22:38 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:24:07 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:25:40 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 20
+[17-Apr-2020 21:25:40 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 21
+[17-Apr-2020 21:25:40 UTC] PHP Notice:  Undefined variable: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 59
+[17-Apr-2020 21:28:24 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:33:34 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:38:39 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:54:36 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 21:54:39 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/adduser.php on line 64
+[17-Apr-2020 22:21:05 UTC] PHP Notice:  Undefined index: fileToUpload in /home2/thiscode/public_html/confab/users/testing.php on line 3
+[17-Apr-2020 22:21:05 UTC] PHP Notice:  Undefined index: fileToUpload in /home2/thiscode/public_html/confab/users/testing.php on line 23
+[18-Apr-2020 06:49:45 UTC] PHP Notice:  Undefined index: parentname in /home2/thiscode/public_html/confab/users/adduser.php on line 58
+[18-Apr-2020 06:49:45 UTC] PHP Notice:  Undefined variable: name in /home2/thiscode/public_html/confab/users/adduser.php on line 62
+[18-Apr-2020 06:55:09 UTC] PHP Notice:  Undefined index: parentname in /home2/thiscode/public_html/confab/users/adduser.php on line 58
+[18-Apr-2020 06:55:09 UTC] PHP Notice:  Undefined variable: name in /home2/thiscode/public_html/confab/users/adduser.php on line 62
+[18-Apr-2020 07:04:04 UTC] PHP Notice:  Undefined index: parentname in /home2/thiscode/public_html/confab/users/adduser.php on line 58
+[18-Apr-2020 07:04:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/thiscode/public_html/confab/users/deleteuser.php on line 23
+[18-Apr-2020 07:05:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/thiscode/public_html/confab/users/deleteuser.php on line 23
+[18-Apr-2020 07:06:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/thiscode/public_html/confab/users/deleteuser.php on line 23
+[18-Apr-2020 07:22:53 UTC] PHP Notice:  Undefined index: parentname in /home2/thiscode/public_html/confab/users/adduser.php on line 58
+[18-Apr-2020 08:57:46 UTC] PHP Notice:  Array to string conversion in /home2/thiscode/public_html/confab/users/upload.php on line 60
+[18-Apr-2020 09:08:47 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 63
+[18-Apr-2020 09:08:47 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 63
+[18-Apr-2020 09:09:23 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 63
+[18-Apr-2020 09:09:23 UTC] PHP Notice:  Array to string conversion in /home2/thiscode/public_html/confab/users/upload.php on line 63
+[18-Apr-2020 09:10:03 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 63
+[18-Apr-2020 09:10:03 UTC] PHP Notice:  Array to string conversion in /home2/thiscode/public_html/confab/users/upload.php on line 63
+[18-Apr-2020 09:15:57 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:15:57 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:15:57 UTC] PHP Notice:  Trying to get property 'username' of non-object in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:15:57 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:15:57 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:15:57 UTC] PHP Notice:  Trying to get property 'username' of non-object in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:17:43 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:17:43 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:17:43 UTC] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:17:43 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:17:43 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:17:43 UTC] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:18:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:18:55 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:18:55 UTC] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:18:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:18:55 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:18:55 UTC] PHP Warning:  Use of undefined constant username - assumed 'username' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:19:31 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:19:31 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:19:31 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:19:31 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:20:14 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:20:14 UTC] PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:23:23 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:23:23 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:23:23 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:23:23 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:24:20 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:24:20 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:24:20 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:24:20 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:25:03 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:25:03 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:25:03 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:25:03 UTC] PHP Notice:  Undefined index: i in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:32:34 UTC] PHP Notice:  Array to string conversion in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[18-Apr-2020 09:32:34 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home2/thiscode/public_html/confab/users/upload.php on line 64
+[19-Apr-2020 14:40:40 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in /home2/thiscode/public_html/confab/users/User.php on line 226
+[19-Apr-2020 14:40:57 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in /home2/thiscode/public_html/confab/users/User.php on line 226
+[19-Apr-2020 14:41:16 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in /home2/thiscode/public_html/confab/users/User.php on line 226
+[19-Apr-2020 14:41:42 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in /home2/thiscode/public_html/confab/users/User.php on line 226
+[19-Apr-2020 14:46:17 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in /home2/thiscode/public_html/confab/users/User.php on line 226
+[19-Apr-2020 14:48:28 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home2/thiscode/public_html/confab/users/User.php on line 163
+[19-Apr-2020 14:51:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/thiscode/public_html/confab/users/User.php on line 227
+[19-Apr-2020 14:52:35 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home2/thiscode/public_html/confab/users/adduser.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users/adduser.php on line 3
+[19-Apr-2020 14:54:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/thiscode/public_html/confab/users/User.php:108
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/User.php(108): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/users/adduser.php(6): User->postUseritems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 108
+[19-Apr-2020 15:09:56 UTC] PHP Notice:  Undefined variable: aT in /home2/thiscode/public_html/confab/users/User.php on line 74
+[19-Apr-2020 15:09:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/thiscode/public_html/confab/users/User.php:108
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/User.php(108): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/users/adduser.php(6): User->postUseritems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 108
+[19-Apr-2020 15:13:20 UTC] PHP Notice:  Undefined variable: aT in /home2/thiscode/public_html/confab/users/User.php on line 74
+[19-Apr-2020 15:13:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/thiscode/public_html/confab/users/User.php:103
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/User.php(103): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/users/adduser.php(6): User->postUseritems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 103
+[19-Apr-2020 15:17:33 UTC] PHP Notice:  Undefined variable: aT in /home2/thiscode/public_html/confab/users/User.php on line 74
+[19-Apr-2020 15:17:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 'mr good','2020-04-19 15:17:33')' at line 1 in /home2/thiscode/public_html/confab/users/User.php:103
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/User.php(103): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/users/adduser.php(6): User->postUseritems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 103
+[19-Apr-2020 15:18:53 UTC] PHP Notice:  Undefined variable: aT in /home2/thiscode/public_html/confab/users/User.php on line 74
+[19-Apr-2020 15:18:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 'mr good','2020-04-19 15:18:53')' at line 1 in /home2/thiscode/public_html/confab/users/User.php:103
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/User.php(103): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/users/adduser.php(6): User->postUseritems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 103
+[19-Apr-2020 15:22:02 UTC] PHP Notice:  Undefined variable: aT in /home2/thiscode/public_html/confab/users/User.php on line 74
+[19-Apr-2020 15:23:16 UTC] PHP Notice:  Undefined variable: aT in /home2/thiscode/public_html/confab/users/User.php on line 74
+[19-Apr-2020 15:23:16 UTC] PHP Notice:  Undefined variable: aT in /home2/thiscode/public_html/confab/users/User.php on line 74
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:49:08 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:49:19 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:49:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:49:54 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 16:53:01 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:00:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:03:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:03:30 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:08:16 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:09:44 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined index: id in /home2/thiscode/public_html/confab/users/User.php on line 167
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined index: name in /home2/thiscode/public_html/confab/users/User.php on line 168
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined index: username in /home2/thiscode/public_html/confab/users/User.php on line 169
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users/User.php on line 170
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 171
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 172
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined index: password in /home2/thiscode/public_html/confab/users/User.php on line 173
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined index: parentName in /home2/thiscode/public_html/confab/users/User.php on line 174
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:12:23 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/userbyid.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:19:37 Africa/Lagos] PHP Notice:  Undefined variable: stmt in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 17:19:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/thiscode/public_html/confab/users/User.php:195
+Stack trace:
+#0 /home2/thiscode/public_html/confab/users/updateuser.php(10): User->updateUserById(Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/users/User.php on line 195
+[19-Apr-2020 21:39:10 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/User.php on line 30
+[19-Apr-2020 21:39:10 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/User.php on line 51
+[20-Apr-2020 05:51:30 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/User.php on line 30
+[20-Apr-2020 05:51:30 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users/User.php on line 51

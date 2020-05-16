@@ -1,0 +1,3 @@
+[04-May-2020 11:57:36 UTC] PHP Notice:  Undefined index: doc_edit in /home2/thiscode/public_html/confab/teacher/note/Note.php on line 23
+[04-May-2020 13:25:20 Africa/Lagos] PHP Notice:  Undefined index: doc in /home2/thiscode/public_html/confab/teacher/note/Note.php on line 171
+[04-May-2020 13:25:20 Africa/Lagos] PHP Notice:  Undefined index: id in /home2/thiscode/public_html/confab/teacher/note/Note.php on line 191

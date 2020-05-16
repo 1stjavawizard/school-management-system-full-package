@@ -1,0 +1,18 @@
+[20-Apr-2020 08:25:43 UTC] PHP Notice:  Undefined variable: units in /home2/thiscode/public_html/confab/units/index.php on line 257
+[20-Apr-2020 08:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllCategoriess() on null in /home2/thiscode/public_html/confab/units/index.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/units/index.php on line 257
+[20-Apr-2020 08:28:15 UTC] PHP Notice:  Undefined variable: units in /home2/thiscode/public_html/confab/units/index.php on line 257
+[20-Apr-2020 08:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllCategoriess() on null in /home2/thiscode/public_html/confab/units/index.php:257
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/units/index.php on line 257
+[20-Apr-2020 10:24:54 UTC] PHP Notice:  Undefined property: stdClass::$name in /home2/thiscode/public_html/confab/units/index.php on line 336
+[20-Apr-2020 10:24:54 UTC] PHP Notice:  Undefined property: stdClass::$name in /home2/thiscode/public_html/confab/units/index.php on line 338
+[20-Apr-2020 10:24:54 UTC] PHP Notice:  Undefined property: stdClass::$name in /home2/thiscode/public_html/confab/units/index.php on line 495
+[20-Apr-2020 10:24:54 UTC] PHP Notice:  Undefined property: stdClass::$name in /home2/thiscode/public_html/confab/units/index.php on line 497
+[20-Apr-2020 10:36:37 UTC] PHP Notice:  Undefined property: stdClass::$name in /home2/thiscode/public_html/confab/units/index.php on line 336
+[20-Apr-2020 10:36:37 UTC] PHP Notice:  Undefined property: stdClass::$name in /home2/thiscode/public_html/confab/units/index.php on line 338
+[20-Apr-2020 10:36:37 UTC] PHP Notice:  Undefined property: stdClass::$name in /home2/thiscode/public_html/confab/units/index.php on line 495
+[20-Apr-2020 10:36:37 UTC] PHP Notice:  Undefined property: stdClass::$name in /home2/thiscode/public_html/confab/units/index.php on line 497

@@ -1,0 +1,15 @@
+[22-Apr-2020 00:22:20 UTC] PHP Notice:  Undefined variable: subjecttostudent in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php on line 4
+[22-Apr-2020 00:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAssignteachertoclassandsubject() on null in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php on line 4
+[22-Apr-2020 00:27:44 UTC] PHP Notice:  Undefined variable: subjecttostudent in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php on line 4
+[22-Apr-2020 00:27:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAssignteachertoclassandsubject() on null in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php on line 4
+[22-Apr-2020 00:41:31 UTC] PHP Notice:  Undefined variable: subjecttostudent in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php on line 4
+[22-Apr-2020 00:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAssignteachertoclassandsubject() on null in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/assignteachertoclassandsubject/selectallassignteachertoclassandsubject.php on line 4

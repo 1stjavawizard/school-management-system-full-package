@@ -1,0 +1,6 @@
+[03-May-2020 23:04:42 UTC] PHP Warning:  include_once(Scheme.php): failed to open stream: No such file or directory in /home2/thiscode/public_html/confab/student/index.php on line 3
+[03-May-2020 23:04:42 UTC] PHP Warning:  include_once(): Failed opening 'Scheme.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/thiscode/public_html/confab/student/index.php on line 3
+[03-May-2020 23:04:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Scheme' not found in /home2/thiscode/public_html/confab/student/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/student/index.php on line 4

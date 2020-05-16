@@ -1,0 +1,117 @@
+[18-Apr-2020 16:25:19 UTC] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting ')' in /home2/thiscode/public_html/confab/school/School.php on line 27
+[18-Apr-2020 16:26:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Schoollevel' not found in /home2/thiscode/public_html/confab/school/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/school/index.php on line 5
+[18-Apr-2020 16:44:04 UTC] PHP Warning:  move_uploaded_file(uploads/schoollogo/school811331noble_logo.png): failed to open stream: No such file or directory in /home2/thiscode/public_html/confab/school/School.php on line 66
+[18-Apr-2020 16:44:04 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLyMrgq' to 'uploads/schoollogo/school811331noble_logo.png' in /home2/thiscode/public_html/confab/school/School.php on line 66
+[18-Apr-2020 16:48:59 UTC] PHP Warning:  move_uploaded_file(uploads/schoollogo/school619020noble_logo2.png): failed to open stream: No such file or directory in /home2/thiscode/public_html/confab/school/School.php on line 66
+[18-Apr-2020 16:48:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMPOqsr' to 'uploads/schoollogo/school619020noble_logo2.png' in /home2/thiscode/public_html/confab/school/School.php on line 66
+[18-Apr-2020 17:10:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getConnection() in /home2/thiscode/public_html/confab/school/School.php:107
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 107
+[18-Apr-2020 17:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getConnection() in /home2/thiscode/public_html/confab/school/School.php:107
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#1 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 107
+[18-Apr-2020 17:25:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2020-04-01,'Mr Yemi,'confab master','sign','Nigeria','Lagos','Lagos','no 2 ketu'' at line 1 in /home2/thiscode/public_html/confab/school/School.php:108
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(108): PDO->query('INSERT INTO sch...')
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 108
+[18-Apr-2020 17:27:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2020-04-01,'Mr Yemi,'confab master','sign','Nigeria','Lagos','Lagos','no 2 ketu'' at line 1 in /home2/thiscode/public_html/confab/school/School.php:108
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(108): PDO->query('INSERT INTO sch...')
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 108
+[18-Apr-2020 17:28:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2020-04-01,'Mr Yemi,'confab master','sign','Nigeria','Lagos','Lagos','no 2 ketu'' at line 1 in /home2/thiscode/public_html/confab/school/School.php:108
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(108): PDO->query('INSERT INTO sch...')
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 108
+[18-Apr-2020 17:40:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2020-04-01,'Mr Yemi,'confab master','sign','Nigeria','Lagos','Lagos','no 2 ketu'' at line 1 in /home2/thiscode/public_html/confab/school/School.php:133
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(133): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 133
+[18-Apr-2020 17:44:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2020-04-01,'Mr Yemi,'confab master','sign','Nigeria','Lagos','Lagos','no 2 ketu'' at line 1 in /home2/thiscode/public_html/confab/school/School.php:133
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(133): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 133
+[18-Apr-2020 17:48:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/thiscode/public_html/confab/school/School.php:133
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(133): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 133
+[18-Apr-2020 18:01:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/thiscode/public_html/confab/school/School.php:133
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(133): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 133
+[18-Apr-2020 18:03:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2020-04-01,'Mr Yemi,'confab master','sign','Nigeria','Lagos','Lagos','no 2 ketu'' at line 1 in /home2/thiscode/public_html/confab/school/School.php:108
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(108): PDO->query('INSERT INTO sch...')
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 108
+[18-Apr-2020 18:07:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home2/thiscode/public_html/confab/school/School.php on line 108
+[18-Apr-2020 18:10:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home2/thiscode/public_html/confab/school/School.php on line 108
+[18-Apr-2020 18:17:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home2/thiscode/public_html/confab/school/School.php on line 108
+[18-Apr-2020 19:30:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2020-03-29,'Mr Yemi,'confab master','sign','Nigeria','Lagos','Lagos','no 2 ketu'' at line 1 in /home2/thiscode/public_html/confab/school/School.php:133
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(133): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 133
+[18-Apr-2020 19:42:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2020-03-29,'Mr Yemi,'confab master','sign','Nigeria','Lagos','Lagos','no 2 ketu'' at line 1 in /home2/thiscode/public_html/confab/school/School.php:134
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(134): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 134
+[19-Apr-2020 03:49:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2019-05-26,'Yemi,'master','sign','Nigeria','Lagos','Lagos','ketu','090980','conf' at line 1 in /home2/thiscode/public_html/confab/school/School.php:134
+Stack trace:
+#0 /home2/thiscode/public_html/confab/school/School.php(134): PDOStatement->execute()
+#1 /home2/thiscode/public_html/confab/school/addschool.php(6): School->postschoolitems(Array, Array)
+#2 {main}
+  thrown in /home2/thiscode/public_html/confab/school/School.php on line 134
+[19-Apr-2020 03:53:08 UTC] PHP Notice:  Undefined variable: user in /home2/thiscode/public_html/confab/school/updateschool.php on line 76
+[19-Apr-2020 03:53:08 UTC] PHP Notice:  Trying to get property 'schoolname' of non-object in /home2/thiscode/public_html/confab/school/updateschool.php on line 158
+[19-Apr-2020 03:53:08 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home2/thiscode/public_html/confab/school/updateschool.php on line 159
+[19-Apr-2020 03:53:08 UTC] PHP Notice:  Trying to get property 'regnumber' of non-object in /home2/thiscode/public_html/confab/school/updateschool.php on line 168
+[19-Apr-2020 04:06:21 UTC] PHP Notice:  Undefined variable: user in /home2/thiscode/public_html/confab/school/updateschool.php on line 76
+[19-Apr-2020 04:06:21 UTC] PHP Notice:  Trying to get property 'schoolname' of non-object in /home2/thiscode/public_html/confab/school/updateschool.php on line 158
+[19-Apr-2020 04:06:21 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home2/thiscode/public_html/confab/school/updateschool.php on line 159
+[19-Apr-2020 04:06:21 UTC] PHP Notice:  Trying to get property 'regnumber' of non-object in /home2/thiscode/public_html/confab/school/updateschool.php on line 168
+[19-Apr-2020 04:09:12 UTC] PHP Notice:  Undefined variable: user in /home2/thiscode/public_html/confab/school/updateschool.php on line 76
+[19-Apr-2020 04:15:08 UTC] PHP Warning:  include_once(Schoollevel.php): failed to open stream: No such file or directory in /home2/thiscode/public_html/confab/school/updateschool2.php on line 4
+[19-Apr-2020 04:15:08 UTC] PHP Warning:  include_once(): Failed opening 'Schoollevel.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/thiscode/public_html/confab/school/updateschool2.php on line 4
+[19-Apr-2020 04:15:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Schoollevel' not found in /home2/thiscode/public_html/confab/school/updateschool2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/school/updateschool2.php on line 5
+[19-Apr-2020 04:17:02 UTC] PHP Warning:  include_once(Schoollevel.php): failed to open stream: No such file or directory in /home2/thiscode/public_html/confab/school/updateschool2.php on line 4
+[19-Apr-2020 04:17:02 UTC] PHP Warning:  include_once(): Failed opening 'Schoollevel.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/thiscode/public_html/confab/school/updateschool2.php on line 4
+[19-Apr-2020 04:17:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Schoollevel' not found in /home2/thiscode/public_html/confab/school/updateschool2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/school/updateschool2.php on line 5
+[19-Apr-2020 04:18:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Schoollevel' not found in /home2/thiscode/public_html/confab/school/updateschool2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/school/updateschool2.php on line 5
+[19-Apr-2020 04:18:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Schoollevel' not found in /home2/thiscode/public_html/confab/school/updateschool2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/school/updateschool2.php on line 5

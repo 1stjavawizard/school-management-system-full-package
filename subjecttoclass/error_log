@@ -1,0 +1,1 @@
+[21-Apr-2020 07:58:42 UTC] PHP Fatal error:  Cannot redeclare Subjecttoclass::getSubjecttoclass() in /home2/thiscode/public_html/confab/subjecttoclass/Subjecttoclass.php on line 81

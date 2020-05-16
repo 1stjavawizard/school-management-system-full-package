@@ -1,0 +1,8 @@
+[21-Apr-2020 07:52:30 Africa/Lagos] PHP Notice:  Undefined index: startdate in /home2/thiscode/public_html/confab/sessionterm/Sessionterm.php on line 107
+[21-Apr-2020 07:58:39 Africa/Lagos] PHP Notice:  Undefined index: startdate in /home2/thiscode/public_html/confab/sessionterm/Sessionterm.php on line 107
+[21-Apr-2020 12:13:50 UTC] PHP Warning:  include_once(Units.php): failed to open stream: No such file or directory in /home2/thiscode/public_html/confab/sessionterm/deletesessionterm.php on line 2
+[21-Apr-2020 12:13:50 UTC] PHP Warning:  include_once(): Failed opening 'Units.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/thiscode/public_html/confab/sessionterm/deletesessionterm.php on line 2
+[21-Apr-2020 12:13:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Units' not found in /home2/thiscode/public_html/confab/sessionterm/deletesessionterm.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/sessionterm/deletesessionterm.php on line 3

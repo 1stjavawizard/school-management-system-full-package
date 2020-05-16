@@ -1,0 +1,54 @@
+[20-Apr-2020 17:51:18 UTC] PHP Notice:  Undefined property: User::$getUsersRole in /home2/thiscode/public_html/confab/users2/index.php on line 242
+[20-Apr-2020 17:51:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/thiscode/public_html/confab/users2/index.php on line 242
+[20-Apr-2020 17:51:18 UTC] PHP Notice:  Undefined property: User::$getUsersRole in /home2/thiscode/public_html/confab/users2/index.php on line 343
+[20-Apr-2020 17:51:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/thiscode/public_html/confab/users2/index.php on line 343
+[20-Apr-2020 17:51:47 UTC] PHP Warning:  include_once(Units.php): failed to open stream: No such file or directory in /home2/thiscode/public_html/confab/users2/deleteuser.php on line 2
+[20-Apr-2020 17:51:47 UTC] PHP Warning:  include_once(): Failed opening 'Units.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/thiscode/public_html/confab/users2/deleteuser.php on line 2
+[20-Apr-2020 17:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Units' not found in /home2/thiscode/public_html/confab/users2/deleteuser.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users2/deleteuser.php on line 3
+[20-Apr-2020 17:51:47 UTC] PHP Notice:  Undefined property: User::$getUsersRole in /home2/thiscode/public_html/confab/users2/index.php on line 242
+[20-Apr-2020 17:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/thiscode/public_html/confab/users2/index.php on line 242
+[20-Apr-2020 17:51:47 UTC] PHP Notice:  Undefined property: User::$getUsersRole in /home2/thiscode/public_html/confab/users2/index.php on line 343
+[20-Apr-2020 17:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/thiscode/public_html/confab/users2/index.php on line 343
+[20-Apr-2020 17:58:22 UTC] PHP Notice:  Undefined variable: server in /home2/thiscode/public_html/confab/users2/updateuser2.php on line 10
+[20-Apr-2020 17:58:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateUserById() on null in /home2/thiscode/public_html/confab/users2/updateuser2.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users2/updateuser2.php on line 10
+[20-Apr-2020 17:59:14 UTC] PHP Notice:  Undefined variable: server in /home2/thiscode/public_html/confab/users2/adduser.php on line 6
+[20-Apr-2020 17:59:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function postUseritems() on null in /home2/thiscode/public_html/confab/users2/adduser.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users2/adduser.php on line 6
+[20-Apr-2020 18:01:49 UTC] PHP Notice:  Undefined variable: server in /home2/thiscode/public_html/confab/users2/adduser.php on line 6
+[20-Apr-2020 18:01:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function postUseritems() on null in /home2/thiscode/public_html/confab/users2/adduser.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users2/adduser.php on line 6
+[20-Apr-2020 18:03:46 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users2/User.php on line 30
+[20-Apr-2020 18:03:46 UTC] PHP Notice:  Undefined index: passport in /home2/thiscode/public_html/confab/users2/User.php on line 51
+[20-Apr-2020 18:13:14 UTC] PHP Notice:  Undefined variable: server in /home2/thiscode/public_html/confab/users2/updateuser2.php on line 10
+[20-Apr-2020 18:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateUserById() on null in /home2/thiscode/public_html/confab/users2/updateuser2.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users2/updateuser2.php on line 10
+[20-Apr-2020 18:52:10 UTC] PHP Notice:  Undefined variable: server in /home2/thiscode/public_html/confab/users2/updateuser2.php on line 10
+[20-Apr-2020 18:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateUserById() on null in /home2/thiscode/public_html/confab/users2/updateuser2.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users2/updateuser2.php on line 10
+[20-Apr-2020 18:52:43 UTC] PHP Notice:  Undefined variable: server in /home2/thiscode/public_html/confab/users2/updateuser2.php on line 10
+[20-Apr-2020 18:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateUserById() on null in /home2/thiscode/public_html/confab/users2/updateuser2.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users2/updateuser2.php on line 10
+[20-Apr-2020 18:52:57 UTC] PHP Notice:  Undefined variable: server in /home2/thiscode/public_html/confab/users2/deleteuser.php on line 6
+[20-Apr-2020 18:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function deleteUser() on null in /home2/thiscode/public_html/confab/users2/deleteuser.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/thiscode/public_html/confab/users2/deleteuser.php on line 6
+[20-Apr-2020 19:56:45 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users2/User.php on line 170
+[23-Apr-2020 15:36:55 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users2/User.php on line 170
+[23-Apr-2020 16:50:25 Africa/Lagos] PHP Notice:  Undefined index: role in /home2/thiscode/public_html/confab/users2/User.php on line 170
